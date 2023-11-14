@@ -1,0 +1,15 @@
+section{margin-top: 100px;}
+
+h1{text-align: center;}
+
+main{width: 240px;
+    margin: 32px auto;
+    text-align: center;
+    font-size: 80px;}
+
+
+    
+    .hidden{
+        display: none
+    }
+    
